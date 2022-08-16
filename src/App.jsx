@@ -26,7 +26,7 @@ export default function App() {
       <Main>
         <Navbar />
         <Wrapper>
-          videocards
+          video cards
         </Wrapper>
       </Main>
     </Container>
